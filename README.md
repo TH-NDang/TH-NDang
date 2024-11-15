@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-ndang2319%40gmail.com-red)](mailto:ndang2319@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0365%20420%20142-green)](tel:0365420142)
-[![GitHub](https://img.shields.io/badge/GitHub-ndang2319-black)](https://github.com/ndang2319)
+[![GitHub](https://img.shields.io/badge/GitHub-ndang2319-black)](https://github.com/TH-NDang)
 
 ## About Me 🎯
 
